@@ -10,6 +10,7 @@ I hold a Bachelor’s Degree in Economics and Finance from Ca’ Foscari Univers
 
 Outside of work, you'll find me volunteering, playing volleyball, or editing videos.
 I also have a passion for continuously learning new things, whether it's picking up the guitar or exploring painting techniques. 
+
 Let's connect!
 
 <h3 align="left">Languages and Tools:</h3>
