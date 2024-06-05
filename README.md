@@ -10,3 +10,8 @@ I hold a Bachelor’s Degree in Economics and Finance from Ca’ Foscari Univers
 
 Outside of work, you'll find me volunteering, playing volleyball, or editing videos and photos. 
 Let's connect!
+
+My skill:
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
