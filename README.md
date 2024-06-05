@@ -8,4 +8,5 @@ These experiences ignited my passion for data, leading me to complete an intensi
 
 I hold a Bachelor’s Degree in Economics and Finance from Ca’ Foscari University, Venice, and a Google Data Analytics Certificate. I combine technical skills with strong communication abilities in Italian, English, and Spanish.
 
-Outside of work, you'll find me volunteering, playing volleyball, or editing videos and photos. Let's connect!
+Outside of work, you'll find me volunteering, playing volleyball, or editing videos and photos. 
+Let's connect!
