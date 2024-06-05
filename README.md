@@ -1,6 +1,6 @@
-## Hi I'm Laura 👋
+## Hi there 👋
 
-Hi there! I'm Laura, a Junior Data Analyst based in Madrid with a knack for turning complex data into actionable insights.
+I'm Laura, a Junior Data Analyst based in Madrid with a knack for turning complex data into actionable insights.
 
 While I haven't held a formal Data Analyst role, my journey has been filled with data-driven tasks. From managing financial data for international projects to enhancing AML systems at ING Bank and ensuring smooth logistics at B & C s.r.l., I've always worked with data to uncover trends and optimize processes.
 
